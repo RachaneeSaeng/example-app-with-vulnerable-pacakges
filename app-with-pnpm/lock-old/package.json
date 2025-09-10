@@ -1,5 +1,5 @@
 {
-  "name": "app-with-pnpm-lock-new",  
+  "name": "app-with-pnpm-lock-old",  
   "packageManager": "pnpm@6.35.1",  
   "devDependencies": {
     "@babel/core": "^7.28.0",
